@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_July 18, 2022-1100 am_cascade-slider_a_0b7dc8</name>
+   <tag></tag>
+   <elementGuidId>38b48b65-ce1f-40c2-9b74-cfae32507863</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.cascade-slider_arrow.cascade-slider_arrow-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cascade-slider']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>23ca2ec7-8703-4f47-8d08-c2a5cfa37dba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cascade-slider_arrow cascade-slider_arrow-left</value>
+      <webElementGuid>daa34548-9799-4d44-8251-3c94bb5894a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>prev</value>
+      <webElementGuid>3f08e207-0b75-4cca-b84b-a62764a94b05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cascade-slider&quot;)/span[@class=&quot;cascade-slider_arrow cascade-slider_arrow-left&quot;]</value>
+      <webElementGuid>993cb6af-1d78-459a-a059-873d44033821</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cascade-slider']/span</value>
+      <webElementGuid>21b0d066-4f22-4044-ab11-492b11295aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div/span</value>
+      <webElementGuid>1288582b-a59a-4d5e-8216-b5c866d9880e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Click me</name>
+   <tag></tag>
+   <elementGuidId>25b72ba2-f735-4f70-aaf5-be7348299636</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>39774739-9ebe-477b-bc11-62d3952f573d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>53a8d322-afcd-4283-b0e5-a213e8e3ff02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click me!</value>
+      <webElementGuid>2d78e03c-5abf-4d4d-b611-ec0f344db9b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;button&quot;)</value>
+      <webElementGuid>8a2b18cd-0cb7-498f-90cf-1259fdd5e8b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='button']</value>
+      <webElementGuid>e983ae2f-08f0-457b-bc9c-140cae1b0af4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Your Name :'])[1]/following::button[1]</value>
+      <webElementGuid>0b83b865-6b63-47ce-83df-5dbd39eba733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HH:MM:SS.sss'])[2]/following::button[1]</value>
+      <webElementGuid>4b3ec54b-e8e3-4426-82f0-ae56a7165cc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'button', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>9205a63a-7d44-4489-96e4-4e126eac387d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click me!']/parent::*</value>
+      <webElementGuid>209df45f-a82d-42bb-90f9-2a0245c63606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>9bb7e2b0-92e0-42ae-9500-b5757b0e0433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'button' and (text() = 'Click me!' or . = 'Click me!')]</value>
+      <webElementGuid>b650e75d-2765-4aa8-abea-bf2ab4741ee2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Exit full screen_slider__progress scrub_30e4d4</name>
+   <tag></tag>
+   <elementGuidId>d32c1d9c-ec66-443c-92f5-e98ad889c9d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slider__progress.scrubber__progress</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='embeddable-198e10fbaaf5c12fb69d']/div[5]/div[3]/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49681a68-253c-4c8e-a225-0f335e3ecd90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slider__progress scrubber__progress</value>
+      <webElementGuid>4fb476d2-aea3-4d53-b4e2-56a6760d72a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;embeddable-198e10fbaaf5c12fb69d&quot;)/div[@class=&quot;Embeddable__chrome Embeddable__chrome--activated Embeddable__chrome--visible&quot;]/div[@class=&quot;Embeddable__scrubber Embeddable__scrubber--enabled&quot;]/div[@class=&quot;Embeddable__scrubber__bar&quot;]/div[@class=&quot;Embeddable__scrubber__slider slider slider--horizontal scrubber scrubber--hover&quot;]/div[@class=&quot;slider__progress scrubber__progress&quot;]</value>
+      <webElementGuid>6993e632-b228-46d8-b5c6-ea616f593520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Dominion Prep/iframe</value>
+      <webElementGuid>97a85620-14b1-4f5f-b8dd-aba3be584a59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='embeddable-198e10fbaaf5c12fb69d']/div[5]/div[3]/div/div[2]/div[2]</value>
+      <webElementGuid>f158d956-2b28-4800-a6eb-b4efed6943dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exit full screen'])[1]/following::div[7]</value>
+      <webElementGuid>cd246cc3-0cdc-4f23-b7bb-82da0f0a268e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open on TED.com'])[1]/following::div[7]</value>
+      <webElementGuid>bf50f1f6-7d61-453d-aebf-3952e5333178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mute'])[1]/preceding::div[8]</value>
+      <webElementGuid>b731ecd6-bca9-4c70-b827-969a0f8ad1c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mute'])[2]/preceding::div[8]</value>
+      <webElementGuid>09eaa262-475a-490a-9bb2-331ca006e39c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]</value>
+      <webElementGuid>5303c3ca-f9ef-4d12-8a48-31a85b84ac23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

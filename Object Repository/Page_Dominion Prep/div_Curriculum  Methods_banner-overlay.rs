@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Curriculum  Methods_banner-overlay</name>
+   <tag></tag>
+   <elementGuidId>a252e917-b0e8-48a6-8e57-1247bbccdb7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.banner-overlay</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e691e38b-a726-41e4-ab9b-22a99cd36d36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>banner-overlay</value>
+      <webElementGuid>43652170-e0a2-4377-8057-039a7ac9b510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;banner&quot;]/div[@class=&quot;banner-img-container&quot;]/div[@class=&quot;banner-overlay&quot;]</value>
+      <webElementGuid>7503bcd9-9b4d-4531-91b1-dd1981daf4eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div</value>
+      <webElementGuid>6447550a-74bd-41df-a4c6-dc694112a72a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_concat(What we, , re learning from online education)_Embeddable__landing__play g-button-play</name>
+   <tag></tag>
+   <elementGuidId>78344498-1350-41b4-b99f-d367b0bc3b58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Embeddable__landing__play.g-button-play</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='embeddable-198e10fbaaf5c12fb69d']/div[4]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d5134337-930f-4547-abe7-266724bc0343</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Embeddable__landing__play g-button-play</value>
+      <webElementGuid>82160cff-3c29-47d4-9565-1da65a457890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;embeddable-198e10fbaaf5c12fb69d&quot;)/div[@class=&quot;Embeddable__landing Embeddable__landing--4x3&quot;]/div[@class=&quot;Embeddable__landing__play g-button-play&quot;]</value>
+      <webElementGuid>78b02c23-82f9-49a7-817d-bb4bacb348da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Dominion Prep/iframe</value>
+      <webElementGuid>2909a423-811a-47c4-b8ae-44c749085c76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='embeddable-198e10fbaaf5c12fb69d']/div[4]/div[2]</value>
+      <webElementGuid>a42f134d-841a-4895-bd1e-441faff709ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>3e02ee7d-ea3f-4f37-baea-99f85e9f0772</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

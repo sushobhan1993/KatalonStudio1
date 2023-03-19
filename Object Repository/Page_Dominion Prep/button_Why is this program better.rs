@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Why is this program better</name>
+   <tag></tag>
+   <elementGuidId>7a025bef-d8e3-4781-8cea-d29c45aa0892</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-link.collapsed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headingOne323']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ee148845-d98c-4693-a50c-11a3e10efc06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-link collapsed</value>
+      <webElementGuid>c3030a19-7afc-4fce-822f-23ebac733f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>38e86534-d365-4efc-bf60-33494e76d93b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#collapseOne323</value>
+      <webElementGuid>32007b7e-4408-469f-8465-5f5f644156b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7fa78c20-bf56-478b-ae4e-b2d41a7cb680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>collapseOne323</value>
+      <webElementGuid>675318a9-9711-4e7f-abb2-7e73ab831c29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Why is this program better?
+               </value>
+      <webElementGuid>0492118f-6e0c-4af3-bf8b-9aeb2e0a9da9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headingOne323&quot;)/button[@class=&quot;btn btn-link collapsed&quot;]</value>
+      <webElementGuid>f588e1e3-87ce-4a15-80b0-07963e6f9da7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headingOne323']/button</value>
+      <webElementGuid>c66d7960-b280-4991-94b2-e855d91a4eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Curriculum &amp; Methods'])[1]/following::button[1]</value>
+      <webElementGuid>df069dfa-7554-4366-b3e6-9e2d5c7037a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomination'])[2]/following::button[1]</value>
+      <webElementGuid>4056fc1a-8558-452b-8bae-8dc8ecef1d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HERE'])[1]/preceding::button[1]</value>
+      <webElementGuid>2cd51a54-3511-45be-b27b-89999fc55c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>a819290e-5b60-4dc4-82cc-a67b1fde3fd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                  Why is this program better?
+               ' or . = '
+                  Why is this program better?
+               ')]</value>
+      <webElementGuid>7e27c54d-c1d7-456c-ba42-1c1405f99773</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

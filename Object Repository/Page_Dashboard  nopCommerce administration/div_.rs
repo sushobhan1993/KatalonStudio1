@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>40ad0ad8-6805-4ff1-a2ad-2e517ae79e50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ajaxBusy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ajaxBusy']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6fd0f950-71ba-4c8e-89be-9bc9a3a680a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ajaxBusy</value>
+      <webElementGuid>61d04679-b531-4a7a-8744-f4a6817c1be1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+ 
+</value>
+      <webElementGuid>59a36a97-d661-4476-bb7b-1d8208a5130d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ajaxBusy&quot;)</value>
+      <webElementGuid>e4f20073-46cf-47fc-8544-4d8e32b6e8ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='ajaxBusy']</value>
+      <webElementGuid>c2cb8c24-25d0-49c3-bc05-94c529694850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wait...'])[1]/following::div[1]</value>
+      <webElementGuid>f0632f90-e51e-4e01-b5fb-8387c224af08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::div[1]</value>
+      <webElementGuid>8a4ec573-0356-4946-b1db-46a3725b79ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear cache'])[1]/preceding::div[1]</value>
+      <webElementGuid>3aa28a6e-c05e-404d-849e-3f6247296bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>83a8f2d2-34ec-4a73-8011-9cd10fd7c45c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'ajaxBusy' and (text() = '
+ 
+' or . = '
+ 
+')]</value>
+      <webElementGuid>4401d109-3e72-4c55-9797-e4d21c425103</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

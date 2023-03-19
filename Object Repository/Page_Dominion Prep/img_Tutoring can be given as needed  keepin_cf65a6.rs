@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Tutoring can be given as needed  keepin_cf65a6</name>
+   <tag></tag>
+   <elementGuidId>97a05e9a-da25-43b7-8f35-b9c480f24c52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xl-5.col-lg-11.col-md-12.pl-lg-0 > div.section-img-container > img.img-fluid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'http://earthwp.magicmindtechnologies.com/dominion-latest-wp/wp-content/themes/dominionprep/assets/images/Image-our-methods.png')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>67544ef8-c795-42bf-8e09-fc0f54e19843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://earthwp.magicmindtechnologies.com/dominion-latest-wp/wp-content/themes/dominionprep/assets/images/Image-our-methods.png</value>
+      <webElementGuid>9efdf064-ecb2-40fc-b913-783414eae6cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid</value>
+      <webElementGuid>4a2aba6d-001f-40d0-b28a-de5f136f9fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;parent-div dark-mode home-about-dominionprep&quot;]/section[@class=&quot;inner-page-section our_methods&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-5 col-lg-11 col-md-12 pl-lg-0&quot;]/div[@class=&quot;section-img-container&quot;]/img[@class=&quot;img-fluid&quot;]</value>
+      <webElementGuid>ccac20d4-2a67-4bfa-9f76-5092b50e3033</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'http://earthwp.magicmindtechnologies.com/dominion-latest-wp/wp-content/themes/dominionprep/assets/images/Image-our-methods.png')]</value>
+      <webElementGuid>2e6fe181-5db7-482b-bf9a-b7a153c49682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div[2]/div/img</value>
+      <webElementGuid>55ce53ed-b14f-412a-94ce-ecb5330af45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://earthwp.magicmindtechnologies.com/dominion-latest-wp/wp-content/themes/dominionprep/assets/images/Image-our-methods.png']</value>
+      <webElementGuid>f5db4d22-ad3a-4d3e-9c6b-483f57017921</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>a7290e6b-0b78-4b32-aa30-0d8cfa84be3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'http://earthwp.magicmindtechnologies.com/dominion-latest-wp/wp-content/themes/dominionprep/assets/images/Icon-Instagram.svg')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b786353b-1b32-42a8-8565-1a3e0d4caa75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://earthwp.magicmindtechnologies.com/dominion-latest-wp/wp-content/themes/dominionprep/assets/images/Icon-Instagram.svg</value>
+      <webElementGuid>18922b3b-5d65-478d-a494-9bd7833231fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;d-flex justify-content-between footer-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;d-flex justify-content-between align-items-center&quot;]/ul[@class=&quot;d-flex align-items-center social-icons&quot;]/li[4]/a[1]/img[1]</value>
+      <webElementGuid>4e40ada6-e5fb-4e1f-ba4e-eea4605ecd7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'http://earthwp.magicmindtechnologies.com/dominion-latest-wp/wp-content/themes/dominionprep/assets/images/Icon-Instagram.svg')]</value>
+      <webElementGuid>05f7f505-9910-42b9-9890-ab89f3a82a3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/img</value>
+      <webElementGuid>0fac37fb-e38e-462b-ab05-ac98b5c8d233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://earthwp.magicmindtechnologies.com/dominion-latest-wp/wp-content/themes/dominionprep/assets/images/Icon-Instagram.svg']</value>
+      <webElementGuid>e980be18-361d-4653-b5ca-53c60cf43ddc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

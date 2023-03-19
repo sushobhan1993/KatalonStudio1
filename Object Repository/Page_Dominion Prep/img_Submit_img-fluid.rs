@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Submit_img-fluid</name>
+   <tag></tag>
+   <elementGuidId>50d61b08-c5ff-4906-817f-4bee4349d645</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.logo.d-md-block.d-none > img.img-fluid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'http://earthwp.magicmindtechnologies.com/dominion-latest-wp/wp-content/themes/dominionprep/assets/images/Logo-Taglinescroll.svg')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8544b11b-38c1-4041-a7ef-ad53428e4a68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://earthwp.magicmindtechnologies.com/dominion-latest-wp/wp-content/themes/dominionprep/assets/images/Logo-Taglinescroll.svg</value>
+      <webElementGuid>83034882-3d98-4437-af3c-1742a485bd92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid</value>
+      <webElementGuid>21f1a642-4564-4228-843a-ce175dd4a634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex justify-content-between footer-top&quot;]/a[@class=&quot;navbar-brand&quot;]/div[@class=&quot;logo d-md-block d-none&quot;]/img[@class=&quot;img-fluid&quot;]</value>
+      <webElementGuid>d5478d92-3e42-4584-b998-d735794deb77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'http://earthwp.magicmindtechnologies.com/dominion-latest-wp/wp-content/themes/dominionprep/assets/images/Logo-Taglinescroll.svg')]</value>
+      <webElementGuid>61af149c-2819-47d9-ba5e-a8cfe3c7d404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/img</value>
+      <webElementGuid>506c1603-36e5-4f70-9f17-05cbb21ded68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://earthwp.magicmindtechnologies.com/dominion-latest-wp/wp-content/themes/dominionprep/assets/images/Logo-Taglinescroll.svg']</value>
+      <webElementGuid>24c8f269-75ab-4977-b321-d8dc83bb61d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

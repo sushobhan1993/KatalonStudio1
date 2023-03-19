@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Is this a full school or a supplemen_6f29e9</name>
+   <tag></tag>
+   <elementGuidId>e871a7c5-7f36-48bd-8b66-43e889820249</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-link.collapsed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headingOne322']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0d68b6a5-740a-453e-ba45-3a0f5830b590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-link collapsed</value>
+      <webElementGuid>d2aec6fd-41f7-4b5f-99f1-de3d29089972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>72f1c156-714f-436f-b87f-5bebade7c150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#collapseOne322</value>
+      <webElementGuid>5247541a-2bca-4bde-8c8b-3ea47a838556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>00ebe3c8-b059-4eb5-8173-defb91ad5051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>collapseOne322</value>
+      <webElementGuid>25de1406-0fb5-4508-b701-2e540f691d94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Is this a full school or a supplement plan or both?
+                 </value>
+      <webElementGuid>55a5052c-29e1-4497-b933-5fdb8bfcb1a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headingOne322&quot;)/button[@class=&quot;btn btn-link collapsed&quot;]</value>
+      <webElementGuid>6fb3c9d7-6de3-4520-8c60-d888b60dac8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headingOne322']/button</value>
+      <webElementGuid>82d3fad5-1318-4fc9-b920-0ff18e5bc7f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parents should be free to interrupt classes to the detriment of others.'])[1]/following::button[1]</value>
+      <webElementGuid>84aa8c4d-c03e-4f65-a76a-080f29c417da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teachers should tutor their students all the time.'])[1]/following::button[1]</value>
+      <webElementGuid>16cf413e-dda6-4ecd-be7b-9bebe190d36e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Will High School Credits Transfer?'])[1]/preceding::button[1]</value>
+      <webElementGuid>819b0750-7fb2-4f81-908f-9d8a553cac62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>0c193a31-2a4d-4284-b462-2907b02fe756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                    Is this a full school or a supplement plan or both?
+                 ' or . = '
+                    Is this a full school or a supplement plan or both?
+                 ')]</value>
+      <webElementGuid>b42a73b9-ca00-4876-b485-28ceb408b237</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

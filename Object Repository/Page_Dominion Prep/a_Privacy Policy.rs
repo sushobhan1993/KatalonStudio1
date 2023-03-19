@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Privacy Policy</name>
+   <tag></tag>
+   <elementGuidId>b41e4dee-8f18-48c0-a6f4-7f9c5d5a9c21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-378 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-378']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e4e252cc-7434-4b1d-bfd8-f895b0ce3b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://earthwp.magicmindtechnologies.com/dominion-latest-wp/?page_id=260</value>
+      <webElementGuid>65d8cd82-9716-4be6-b56f-5cbd6bc74766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Privacy Policy</value>
+      <webElementGuid>0550215d-34f6-434b-b52d-766d615b77d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-378&quot;)/a[1]</value>
+      <webElementGuid>0637abbf-c8fb-4dee-ab74-11bc52e2e772</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-378']/a</value>
+      <webElementGuid>03017222-1fa5-4024-996d-a37d352affb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Privacy Policy')]</value>
+      <webElementGuid>6b54a491-5efa-4e06-958c-9ba9e15cbb95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::a[1]</value>
+      <webElementGuid>5c8dacd8-1aad-4c5a-a69f-91ab9fedd839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::a[3]</value>
+      <webElementGuid>548780cb-bab5-472a-9e9b-66214e8e458b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::a[1]</value>
+      <webElementGuid>b2d62cc7-8072-435d-937c-033e115bd4c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'menu-item-378', '&quot;', ')/a[1]')])[1]/preceding::a[5]</value>
+      <webElementGuid>f7c35067-7bd0-4de2-98ee-f2d9bd11e1fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Privacy Policy']/parent::*</value>
+      <webElementGuid>0c305526-a2f5-48c6-9443-e1c0d517f705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://earthwp.magicmindtechnologies.com/dominion-latest-wp/?page_id=260']</value>
+      <webElementGuid>48cda50d-3060-4911-809b-7715cc5a5cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/div/ul/li[2]/a</value>
+      <webElementGuid>2310876f-2b8c-4cc6-a76d-db24535d243c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://earthwp.magicmindtechnologies.com/dominion-latest-wp/?page_id=260' and (text() = 'Privacy Policy' or . = 'Privacy Policy')]</value>
+      <webElementGuid>d006abc8-c814-4814-ab12-b66088bde5c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
